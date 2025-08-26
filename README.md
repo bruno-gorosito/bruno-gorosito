@@ -14,7 +14,7 @@ Soy **desarrollador web full stack** de Argentina 🇦🇷, especializado en el 
 
 🔧 Git / GitHub, Postman
 
-🌐 Español nativo, Inglés B1
+🌐 Español (nativo), Inglés (B1)
 
 
 ---
